@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="CL: TVN SD" tvg-logo="http://hidra.live:80/images/441a1754ea7709febd9371cbe8e41d93.png" group-title="Chile",CL: TVN SD
+http://dnsplay.xyz:80/tzdrhovz/6Nyvj25Zy9/35294
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="CL: Mega SD" tvg-logo="http://hidra.live:80/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="Chile",CL: Mega SD
+http://dnsplay.xyz:80/tzdrhovz/6Nyvj25Zy9/35297
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="CL: Chilevision SD" tvg-logo="http://img.tvcl.xyz/chile/chilevision.png" group-title="Chile",CL: Chilevision SD
+http://dnsplay.xyz:80/tzdrhovz/6Nyvj25Zy9/35300
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="CL: Canal 13 SD" tvg-logo="http://hidra.live:80/images/f1bde9f7f440a7fd4888a9219b78c1dd.png" group-title="Chile",CL: Canal 13 SD
+http://dnsplay.xyz:80/tzdrhovz/6Nyvj25Zy9/35303
